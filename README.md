@@ -1,2 +1,2 @@
 # University-System
-In this project, we created a university system by using cisco packet tracer for Usman institute of technology in which we provide a basic and effective idea for the university network or any small education sector.
+The project consisted of a university system of Usman institute of technology which was created by using a cisco packet tracer in which we provided a basic and effective idea for the university network or any small education sector.
